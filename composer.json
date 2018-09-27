@@ -9,5 +9,12 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [],
+        "psr-4": {
+            "DtechBmi\\BMI\\": "src/"
+        },
+        "files": []
+    }
 }
