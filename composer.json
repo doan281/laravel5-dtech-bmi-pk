@@ -1,0 +1,13 @@
+{
+    "name": "dtech-bmi/bmi",
+    "description": "Calculate BMI index",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "doan281",
+            "email": "doan281@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
